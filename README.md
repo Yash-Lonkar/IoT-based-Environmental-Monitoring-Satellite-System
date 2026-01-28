@@ -3,6 +3,9 @@
 An IoT-powered environmental monitoring system that simulates satellite-based data collection using on-board sensors and transmits real-time atmospheric data to an interactive web dashboard.
 The system continuously monitors temperature, humidity, pressure, and altitude using low-power sensors and publishes the data wirelessly via ESP8266 (Wi-Fi).
 
+<br><br>IoT を活用した環境モニタリングシステムで、オンボードセンサーを用いて衛星ベースのデータ収集をシミュレーションし、リアルタイムの大気データをインタラクティブな Web ダッシュボードへ送信します。
+本システムは、低消費電力センサーを使用して温度・湿度・気圧・高度を継続的に監視し、ESP8266（Wi-Fi）を介して無線でデータを送信します。<br><br>
+
 📌 Project Overview
 
 Environmental monitoring is critical for climate research, weather forecasting, and pollution analysis. This project demonstrates how satellite-style sensor payloads can collect environmental data and transmit it to a ground station dashboard using IoT technologies.
