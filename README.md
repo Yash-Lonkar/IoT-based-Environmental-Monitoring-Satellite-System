@@ -127,7 +127,7 @@ Pressure (hPa)
 
 Altitude (meters)
 
-(Add screenshots in the /screenshots folder)
+
 
 🚀 Applications
 
